@@ -12,4 +12,4 @@ Clone or download into `~/Library/Scripts/Applications/Google Chrome` and option
 
 One-liner (only if you don't have anything in `~/Library/Scripts/Applications/Google Chrome` yet):
 
-    git clone https://github.com/Cottser/chrome-applescripts.git "$HOME/Library/Scripts/Applications/Google\ Chrome"
+    git clone https://github.com/Cottser/chrome-applescripts.git "$HOME/Library/Scripts/Applications/Google Chrome"
