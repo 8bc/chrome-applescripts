@@ -1,3 +1,6 @@
 tell application "Google Chrome"
-	duplicate active tab of window 1
+	tell window 1
+		set theURL to URL of active tab
+		make new tab with properties {URL:theURL}
+	end tell
 end tell
