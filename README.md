@@ -1,6 +1,7 @@
 # Chrome AppleScripts
 
 * Break current tab into new window
+* Copy URLs of current window to clipboard
 * Duplicate current tab
 * Duplicate current tab as incognito window
 * Duplicate current window as incognito window
